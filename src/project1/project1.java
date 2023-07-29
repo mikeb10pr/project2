@@ -9,4 +9,9 @@ public class project1 {
 		
 	}
 
+	String country = "USA";
+	String state = "Conneticut"; 
+	
+	
+
 }
