@@ -11,5 +11,6 @@ public class DemoDay5 {
 	public void getInfo() {
 		System.out.println("T1");
 	}
-
+public void getData() { 
+	System.out.println("T2");
 }
